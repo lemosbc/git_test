@@ -1,1 +1,2 @@
 Hello Odin, we meet again!
+Testing commit message editor on VSCode.
